@@ -1,0 +1,5 @@
+class FinOrd:
+    def __init__(self, domain_size, codomain_size, data):
+        self.id = generate_id
+        
+        
